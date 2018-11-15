@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [frmMain.cs](./CS/frmMain.cs) (VB: [frmMain.vb](./VB/frmMain.vb))
+* [RibbonLogoHelper.cs](./CS/LogoHelper/RibbonLogoHelper.cs) (VB: [RibbonLogoHelper.vb](./VB/LogoHelper/RibbonLogoHelper.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+<!-- default file list end -->
 # How to draw a logo on RibbonControl
 
 
